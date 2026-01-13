@@ -14,6 +14,7 @@ public class Question5 {
         
         System.out.println("Watts: " + watts);
         
-        sc.close();
+        x.close();
     }
+
 }
