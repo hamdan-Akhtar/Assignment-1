@@ -17,6 +17,7 @@ public class Question6 {
         
         System.out.println("Area of trapezoid: " + area);
         
-        sc.close();
+        X.close();
     }
+
 }
